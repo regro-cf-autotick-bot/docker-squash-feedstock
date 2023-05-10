@@ -1,5 +1,5 @@
 {% set name = "docker-squash" %}
-{% set version = "1.0.10" %}
+{% set version = "1.1.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/docker-squash-{{ version }}.tar.gz
-  sha256: cf88e2f23e0de109c6636acbdd5c705fa4a6a33a783bdb087f700bcd09cf8683
+  sha256: 819a87bf44c575c76d8d8f15544363a7a81ca2b176d424b67b39cd2cd9acc89e
 
 build:
   entry_points:
