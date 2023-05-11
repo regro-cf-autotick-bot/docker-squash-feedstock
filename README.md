@@ -1,11 +1,11 @@
-About docker-squash
-===================
+About docker-squash-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/docker-squash-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/goldmann/docker-squash
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/docker-squash-feedstock/blob/main/LICENSE.txt)
 
 Summary: Docker layer squashing tool
 
